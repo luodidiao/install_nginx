@@ -1,0 +1,5 @@
+make
+gcc-c++
+pcre-devel
+zlib-devel
+openssl-devel

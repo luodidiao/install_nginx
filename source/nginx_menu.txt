@@ -1,0 +1,4 @@
+nginx-1.12.2.tar.gz
+nginx-1.14.2.tar.gz
+nginx-1.16.0.tar.gz
+nginx-1.17.1.tar.gz

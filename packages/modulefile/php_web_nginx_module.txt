@@ -1,0 +1,1 @@
+--user=nginx --group=nginx --with-http_stub_status_module --with-http_ssl_module --without-http_ssi_module --without-http_autoindex_module --without-mail_pop3_module --without-mail_imap_module --without-mail_smtp_module --without-http_uwsgi_module
